@@ -1,5 +1,6 @@
 Test file created on develop branch on server
 Added line 2 in local desktop
+<<<<<<< HEAD
 line 3 added on server on develop br.
 line 4 added on srver on develop br
 <<<<<<< HEAD
@@ -8,3 +9,6 @@ line 5 added on local for diff conflict try commit -amend now
 =======
 line 5 on server check diff
 >>>>>>> 3bbdcd51fd478e8aa08d6c1cd44a366dba47e582
+=======
+Added line 3 on github
+>>>>>>> 6c71278ab35fef5f08da232d8c331e764a5327a2
